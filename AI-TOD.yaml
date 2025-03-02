@@ -1,0 +1,14 @@
+path: D:/papers/code/ultralytics-main/datasets/AI-TOD
+train: D:/papers/code/ultralytics-main/datasets/AI-TOD/images/train
+val: D:/papers/code/ultralytics-main/datasets/AI-TOD/images/val
+test: D:/papers/code/ultralytics-main/datasets/AI-TOD/images/test
+
+names:
+  0: ship
+  1: vehicle
+  2: storage-tank
+  3: bridge
+  4: swimming-pool
+  5: person
+  6: airplane
+  7: wind-mill
